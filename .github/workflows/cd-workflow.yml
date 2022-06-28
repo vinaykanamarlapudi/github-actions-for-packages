@@ -8,7 +8,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
-      - uses: vinaykanamarlapudi/hello-github-actions@v1.0.0/action_a
+      - uses: vinaykanamarlapudi/hello-github-actions@v1.0.0/action-a
         with:
           MY_NAME: "Vinay"
 
